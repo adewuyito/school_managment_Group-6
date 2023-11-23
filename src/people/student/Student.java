@@ -1,4 +1,6 @@
-package people;
+package people.student;
+
+import people.Person;
 
 /**
  * This defines the student class

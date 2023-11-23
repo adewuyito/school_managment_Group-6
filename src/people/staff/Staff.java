@@ -1,4 +1,6 @@
-package people;
+package people.staff;
+
+import people.Person;
 
 /**
  * This defines the staff class
